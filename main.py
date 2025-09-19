@@ -1,6 +1,6 @@
 username = "admin"
 password_length = 12
-
+# --- Start your solution below this line --- #
 if username == "admin":
     if password_length >= 10:
         print("Login successful.")
